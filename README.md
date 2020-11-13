@@ -14,9 +14,11 @@ To avoid solving the large LP, Spiess and Florian proposed a primal-dual algorit
 1. #### Clone the repository on a local directory  
 
 2. #### Data Preparation : 
-Navigate to the folder where ZIP file of GTFS data is located. Open R file named ```DataPrep.R```. 
+For the assignment, you need three types of data: 
+--dd
+-- dd
 
-Note that the data format used by the current script is different from the data available on this website. Use script "dataPreparation.py" to create a network suitable for this script.
+Locate the zip fil. Open R file named ```DataPrep.R```. 
 
 
 
