@@ -15,10 +15,11 @@ To avoid solving the large LP, Spiess and Florian proposed a primal-dual algorit
 
 2. #### Data Preparation : 
 For the assignment, you need three types of data: 
-* d
-* dd
+* **Network data**: For this, you can use R file named ```DataPrep.R```. Change the location of the GTFS ZIP file in the script and run it. This will create nodes and links for the network.
+* **Zones data/Access links data**: You need data related to traffic analysis zones from where the demand is generated or destined to. I will leave this up to you to create access_links from zones to  transit stops and vice versa. Check the data format ```ft_input_accessLinks.dat```
+* **Demand**: You need demand between various zones. 
 
-Locate the zip fil. Open R file named ```DataPrep.R```. 
+
 
 
 
