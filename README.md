@@ -8,3 +8,6 @@ This is an assignment model for the transit systems where the service is perceiv
 ![](lp.PNG)
 
 
+
+
+
