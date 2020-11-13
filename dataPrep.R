@@ -5,7 +5,7 @@
 # Script created by Pramesh Kumar 12/19/2018
 ##########################################################
 
-loc <- "Z:\\Projects\\TNDP\\TransitNetworkDesign\\Scripts\\Optimal strategy assignment\\GTFS\\" # Location of the 
+loc <- "C:\\Users\\kumar372\\Dropbox\\Codes\\Optimal-Strategy-Transit-Assignment\\" # Location of the GTFS file
 loc2 <- "Z:\\Projects\\Ride Sharing with Transit\\SBSP\\Schedule-based-transit-shortest-path\\test network GTFS\\"
 
 options(stringsAsFactors = FALSE)
