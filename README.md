@@ -19,6 +19,9 @@ For the assignment, you need three types of data:
 * **Zones data/Access links data**: You need data related to traffic analysis zones from where the demand is generated or destined to. I will leave this up to you to create access_links from zones to  transit stops and vice versa. Check the data format ```ft_input_accessLinks.dat```
 * **Demand**: You need demand between various zones. 
 
+## How to run transit assignment?
+
+
 
 
 
