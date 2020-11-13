@@ -15,8 +15,8 @@ To avoid solving the large LP, Spiess and Florian proposed a primal-dual algorit
 
 2. #### Data Preparation : 
 For the assignment, you need three types of data: 
---dd
--- dd
+* d
+* dd
 
 Locate the zip fil. Open R file named ```DataPrep.R```. 
 
