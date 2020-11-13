@@ -1,3 +1,6 @@
 # Optimal-Strategy-Transit-Assignment
 
-Optimal-Strategy-Transit-Assignment is a repository for the static transit assignment python code proposed by [Spiess and Florian (1989)](https://www.sciencedirect.com/science/article/pii/0191261589900349) 
+Optimal-Strategy-Transit-Assignment is a repository for the static transit assignment python code. The mode was proposed by [Spiess and Florian (1989)](https://www.sciencedirect.com/science/article/pii/0191261589900349). 
+
+## What is optimal strategy transit assignment?
+
